@@ -1,0 +1,70 @@
+Stock In Receipt
+Date: 2025-11-15
+Time: 02:31 PM
+From: HQ
+To: C60
+Models:
+- DW2300-2 (2)
+Total Quantity: 2
+Employee in Charge: Tan Guan Han
+
+Stock In Receipt
+Date: 2025-11-15
+Time: 02:33 PM
+From: HQ
+To: C60
+Models:
+- DW2300-2 (2)
+Total Quantity: 2
+Employee in Charge: Tan Guan Han
+
+Stock In Receipt
+Date: 2025-11-15
+Time: 02:42 PM
+From: HQ
+To: C60
+Models:
+- DW2300-2 (2)
+Total Quantity: 2
+Employee in Charge: Unknown
+
+Stock In Receipt
+Date: 2025-11-15
+Time: 02:47 PM
+From: HQ
+To: C60
+Models:
+- DW2300-2 (2)
+Total Quantity: 2
+Employee in Charge: Tan Guan Han
+
+Stock In Receipt
+Date: 2025-11-15
+Time: 02:48 PM
+From: HQ
+To: C60
+Models:
+- DW2300-2 (2)
+Total Quantity: 2
+Employee in Charge: Tan Guan Han
+
+Stock In Receipt
+Date: 2025-11-15
+Time: 02:52 PM
+From: 2
+To: 2
+Models:
+
+Total Quantity: 0
+Employee in Charge: Tan Guan Han
+
+Stock Out Receipt
+Date: 2025-11-15
+Time: 03:52 PM
+From: C60
+To: HQ
+Models:
+- DW2300-2 (2)
+Total Quantity: 2
+Employee in Charge: Tan Guan Han
+
